@@ -16,3 +16,11 @@ The following techniques have been used:
 
 ## To excute the script
 python < scriptname.py >
+
+##To activate the environment
+conda activate < environment-name >
+
+##To create environment
+conda create < environment name >
+
+
